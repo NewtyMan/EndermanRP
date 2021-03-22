@@ -1,0 +1,14 @@
+# Features toggle
+enable-pumpkin-invisibility: true
+enable-friendly-enderman: true
+enable-teleportation: true
+enable-water-damage: true
+enable-silk-touch: true
+
+# Water damage settings
+water-per-second-damage: 2
+require-full-armor: false
+
+# Teleportation settings
+max-height-difference: 6
+teleport-distance: 24

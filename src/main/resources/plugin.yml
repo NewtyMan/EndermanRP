@@ -1,0 +1,17 @@
+name: EndermanRP
+version: ${project.version}
+main: io.github.newtyman.endermanrp.EndermanRP
+api-version: 1.13
+authors: [ NewtyMan ]
+website: https://newtyman.github.io
+
+commands:
+  em:
+    description: "Enables|Disables enderman status"
+  s:
+    description: "Starts playing enderman noise"
+
+permissions:
+  enderman.set:
+    description: "Allows /em command"
+    default: op
