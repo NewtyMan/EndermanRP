@@ -9,7 +9,7 @@
 
 Download the latest plugin release and drag it into your **plugins/** server folder. Make sure to delete any old version of this plugin first.
 
-[EndermanRP v.01](https://github.com/NewtyMan/EndermanRP/releases/latest/download/endermanrp-0.1.jar)
+[EndermanRP v.01](https://github.com/NewtyMan/EndermanRP/releases/download/0.1/endermanrp-0.1.jar)
 &nbsp;
 ## Plugin features & TO-DO list
 
